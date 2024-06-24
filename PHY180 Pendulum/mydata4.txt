@@ -1,0 +1,6 @@
+# Of binder clippings	Period	Uncertainty X	Uncertianty Y
+1	1.138	0	0.087
+2	1.156	0	0.087
+4	1.143	0	0.087
+8	1.148	0	0.087
+16	1.151	0	0.087
